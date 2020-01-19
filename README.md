@@ -1,2 +1,2 @@
 To run application:
-1. Download NearbyEarthquakes.jar and Run.bat files from https://github.com/mkosiorowski/NearbyEarthquakes/AppJar
+1. Download NearbyEarthquakes.jar and Run.bat files from https://github.com/mkosiorowski/NearbyEarthquakes/AppJar/
