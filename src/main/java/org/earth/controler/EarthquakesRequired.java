@@ -7,7 +7,7 @@ import org.earth.validation.TextFieldNumber;
 import java.util.*;
 
 /**
- * Manipulate data from JSO
+ * Manipulate data from JSON
  */
 
 public class EarthquakesRequired extends RestClient{
